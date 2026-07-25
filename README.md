@@ -1,20 +1,22 @@
-Ola Analytics Dashboard
-Business Problem
+###Ola Analytics Dashboard
+
+###Business Problem
 
 The business needed a centralized analytics dashboard to monitor booking performance, revenue, vehicle-type performance, payment methods, cancellations, customer behaviour, and driver and customer ratings.
 
-Tools
+###Tools
 
 Power BI | Power Query | DAX | Excel
 
-KPIs
+###KPIs
 Total Bookings: 103,024
 Total Booking Value: ₹57M
 Successful Bookings: 63,967
 Cancelled Bookings: 28,933
 Average Distance Travelled
 Customer and Driver Ratings
-Key Insights
+
+###Key Insights
 63,967 bookings were successful, while 28,933 bookings were cancelled, highlighting a significant opportunity to reduce cancellations.
 Successful bookings accounted for approximately 62% of total bookings.
 Cash was the highest revenue-generating payment method, followed by UPI.
@@ -22,7 +24,8 @@ Prime Sedan generated the highest total booking value among the vehicle types sh
 Prime SUV recorded one of the highest average driver ratings at 4.01.
 Customer and driver ratings remained consistently high across vehicle categories, generally around 4.0.
 Customer cancellations were mainly associated with reasons such as driver delays, driver-related issues, changes of plans, and vehicle-related problems.
-Business Value
+
+##Business Value
 
 The dashboard enables management to monitor booking and revenue performance, identify cancellation patterns, compare vehicle categories, analyse payment preferences, and improve operational efficiency and customer satisfaction.
 
