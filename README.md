@@ -1,61 +1,31 @@
-# Ola Analytics Dashboard | Power BI
+Ola Analytics Dashboard
+Business Problem
 
-## Project Overview
-This Power BI dashboard analyzes Ola ride booking performance, revenue trends, vehicle performance, ride cancellations, and customer ratings to generate business insights.
+The business needed a centralized analytics dashboard to monitor booking performance, revenue, vehicle-type performance, payment methods, cancellations, customer behaviour, and driver and customer ratings.
 
----
+Tools
 
-## Objective
-The objective of this project is to monitor operational performance, booking trends, cancellation behavior, and customer satisfaction using interactive dashboards and KPI visualizations.
+Power BI | Power Query | DAX | Excel
 
----
+KPIs
+Total Bookings: 103,024
+Total Booking Value: ₹57M
+Successful Bookings: 63,967
+Cancelled Bookings: 28,933
+Average Distance Travelled
+Customer and Driver Ratings
+Key Insights
+63,967 bookings were successful, while 28,933 bookings were cancelled, highlighting a significant opportunity to reduce cancellations.
+Successful bookings accounted for approximately 62% of total bookings.
+Cash was the highest revenue-generating payment method, followed by UPI.
+Prime Sedan generated the highest total booking value among the vehicle types shown.
+Prime SUV recorded one of the highest average driver ratings at 4.01.
+Customer and driver ratings remained consistently high across vehicle categories, generally around 4.0.
+Customer cancellations were mainly associated with reasons such as driver delays, driver-related issues, changes of plans, and vehicle-related problems.
+Business Value
 
-## Tools & Technologies
-- Power BI
-- DAX
-- Excel
+The dashboard enables management to monitor booking and revenue performance, identify cancellation patterns, compare vehicle categories, analyse payment preferences, and improve operational efficiency and customer satisfaction.
 
----
-
-## Dashboard Features
-
-### Overall Analysis
-- Total Bookings
-- Booking Value
-- Booking Status Breakdown
-- Ride Volume Trends
-
-### Vehicle Type Analysis
-- Vehicle-wise Booking Value
-- Success Booking Value
-- Distance Travelled
-- Vehicle Performance Comparison
-
-### Revenue Analysis
-- Revenue by Payment Method
-- Daily Revenue Trends
-- Customer Booking Analysis
-
-### Cancellation Analysis
-- Customer Cancellation Reasons
-- Driver Cancellation Reasons
-- Success vs Cancelled Bookings
-
-### Ratings Analysis
-- Driver Ratings
-- Customer Ratings
-- Vehicle-wise Rating Comparison
-
----
-
-## Key Insights
-- Most bookings were successfully completed.
-- Cash and UPI were the most used payment methods.
-- Prime Sedan and Prime SUV generated high booking values.
-- Cancellation analysis helped identify operational issues.
-- Customer and driver ratings remained close to 4.0.
-
----
 
 ## Dashboard Preview
 
@@ -68,17 +38,3 @@ The objective of this project is to monitor operational performance, booking tre
 
 
 
----
-
-## Skills Demonstrated
-- Data Visualization
-- KPI Reporting
-- Business Analysis
-- Dashboard Development
-- DAX Calculations
-- Interactive Reporting
-
----
-
-## Author
-Your Name
